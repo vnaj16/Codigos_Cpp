@@ -1,0 +1,15 @@
+﻿  Juego.cpp
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(531): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(536): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(541): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(546): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(551): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(556): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(561): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(574): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(575): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(598): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(604): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\arthur\upc\2do ciclo\programacion ii\proyecto juego\proyecto juego\juego.h(605): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  C_Bomba.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyecto Juego.vcxproj -> C:\Arthur\UPC\2do Ciclo\Programacion II\Proyecto Juego\Debug\Proyecto Juego.exe
